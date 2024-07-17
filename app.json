@@ -54,7 +54,7 @@
       "required" :true,    
       "value": "true"
     }, 
-    "AUTO_SAVE_STATUS": {true
+    "AUTO_SAVE_STATUS": {
       "description": " Auto save whatsapp status", 
       "required" :true,   
       "value": "false"
