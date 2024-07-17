@@ -7,24 +7,24 @@
   "app_url": "/suhail/",
   
   "env": {
-    "OWNER_NAME": {
+    "OWNER_NAME": {cybernima
       "description": "Name of Bot Owner",    
       "value": "WASI SER",
       "required" : false 
     },   
     
-    "WELCOME": {
+    "WELCOME": {𝗖𝗬𝗕𝗘𝗥 𝗡𝗜𝗠𝗔 𝗜𝗦 𝗢𝗡𝗟𝗜𝗡𝗘
       "description": "put 'false' or 'true' to enable & disable automatic group WELCOME ",
       "value": "false",
       "required" :false 
     },
      
-    "GOODBYE": {
+    "GOODBYE": {𝗖𝗬𝗕𝗘𝗥 𝗡𝗜𝗠𝗔 𝗜𝗦 𝗢𝗙𝗙𝗟𝗜𝗡𝗘
       "description": "put 'false' or 'true' to enable & disable automatic group GOODBYE ",
       "value": "false",
       "required" :false 
     },
-    "BOT_NAME": {
+    "BOT_NAME": {cyber_nima-md
       "description": " NAME FOR BOT",
       "required" :false ,    
       "value": "WASI MD"
@@ -54,7 +54,7 @@
       "required" :true,    
       "value": "true"
     }, 
-    "AUTO_SAVE_STATUS": {
+    "AUTO_SAVE_STATUS": {true
       "description": " Auto save whatsapp status", 
       "required" :true,   
       "value": "false"
@@ -99,12 +99,12 @@
       "required" :true,
       "value": "."
     },
-    "OWNER_NUMBER": {
+    "OWNER_NUMBER": {94769268470
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
       "required" :true,
       "value": "923135673658"
     },
-    "SESSION_ID": {
+    "SESSION_ID": {eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoic0pSajlJd1lFNGE1S2pkTk04M1p1SWgyRHJzYkJPTTdVMXpncWhiWjczaz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRktacVNrdjVxZkxsUUNsK0NHU05tODdGczU2T3hKQWRMOEs1bmpVZ1JWcz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIyRnBwODRBalZiS3I1YlVTeDJQa3VaNzdTaTlac1owS2kvL2xVeERndEZNPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJSb1BsZmVkbW1rRDZHeFNTY1AzS0dLVHRkK1FJdnFUUTg2WHI2eE5OaFFvPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImVCTUtycUJnbUF2M29rMG9ta21FRStJWjBFY014cWprL2pBVURhZFJUV1U9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImFHNm5tU0lmM01GTzgybFVxM1lHN1YvbVVOUXFzcTVxUldudGYvUWlMU1U9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMEtGTDA1dGxrZnpINGVQNEtYdWc1bTFoeHZXYXVVbzR1UGVZRGtlVDFIRT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQXBaNVdpa2hrVDRGc0x2OWt2WWpDZ0g3TVhXb2NIZUJQSGhncU9RMWtDTT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkVrV0RJWFdZL05kN1ErNXE2RGhRT29xeUsrZHlhS29pZG15d1k5YmEvUFg3aDNLTUFHM3BOemFVV0svQzRlWk9wcG5iOEJiNHdhMWgwU2QydDRzdmlBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTg1LCJhZHZTZWNyZXRLZXkiOiJ6bW52a2U3c1Q3SUh4L3FPcEcwa3FwK2VmV21vcEpUWXZZTktqOHRJUlNFPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJTZlhhNU0xS1JDVzVHTjhKRzlhYjZBIiwicGhvbmVJZCI6IjBmN2I2MGE2LWU0ZDYtNGY0Mi05MTI3LTJiNjI1NzNhN2Q4MiIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJsd1NUL0ZjcFF6NHNaMWJTS3JySUx2WDhXWUE9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQnNkNG9tSWZ5dzFPY1p0dXhWd1FQb0pxVGdnPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IjJROFI0WUtXIiwibWUiOnsiaWQiOiI5NDc2OTI2ODQ3MDo4QHMud2hhdHNhcHAubmV0IiwibmFtZSI6IuqngfCdl6HwnZec8J2XoPCdl6HwnZeUIPCdl5fwnZeo8J2Xn/Cdl6bwnZeb8J2XlPCdl6Hqp4IifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ1BDbjVMa0dFTGZoM0xRR0dBTWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6ImxDeitIN0xhZXh4bk1aWThibzZZZm9xTnZEdlh0b2drdzZHaW80M29qWDg9IiwiYWNjb3VudFNpZ25hdHVyZSI6IkxYT3g2Si8vN29mSFE4Nlh1K0lFaUhqeWhGYkttcmhrV0VBVlhqQnIxL09rWjNTQndIOTRHRGhEa1dtV0oyK0NPd1JJckRKY1BzUDR5S29zNjBzeUJBPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJCL0ZHOWZnM3hqMU1uSFdDSVlYUDAzWHhXSmVnSVpERFV5YnZLOXBmK0ZnUG1FNUhOTklaTVFRODdqZFk0L1BiZ1VmWVlLSXhDVjM3dm5mMFBXQ0doQT09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6Ijk0NzY5MjY4NDcwOjhAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCWlFzL2greTJuc2NaekdXUEc2T21INktqYnc3MTdhSUpNT2hvcU9ONkkxLyJ9fV0sInBsYXRmb3JtIjoic21iYSIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTcyMTE4NDQ1MywibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFES3kifQ==
       "description": "put your SESSION_ID here.",
       "required" :true,
       "value": ""
