@@ -7,24 +7,24 @@
   "app_url": "/suhail/",
   
   "env": {
-    "OWNER_NAME": {cybernima
+    "OWNER_NAME": {
       "description": "Name of Bot Owner",    
       "value": "WASI SER",
       "required" : false 
     },   
     
-    "WELCOME": {𝗖𝗬𝗕𝗘𝗥 𝗡𝗜𝗠𝗔 𝗜𝗦 𝗢𝗡𝗟𝗜𝗡𝗘
+    "WELCOME": {
       "description": "put 'false' or 'true' to enable & disable automatic group WELCOME ",
       "value": "false",
       "required" :false 
     },
      
-    "GOODBYE": {𝗖𝗬𝗕𝗘𝗥 𝗡𝗜𝗠𝗔 𝗜𝗦 𝗢𝗙𝗙𝗟𝗜𝗡𝗘
+    "GOODBYE": {
       "description": "put 'false' or 'true' to enable & disable automatic group GOODBYE ",
       "value": "false",
       "required" :false 
     },
-    "BOT_NAME": {cyber_nima-md
+    "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false ,    
       "value": "WASI MD"
